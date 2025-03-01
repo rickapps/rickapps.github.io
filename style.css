@@ -28,7 +28,7 @@ img {
 
 a {
     color:  rgb(159, 214, 88);
-    padding: 15px 0px;
+    line-height: 1.8;
 }
 
 a:hover {
